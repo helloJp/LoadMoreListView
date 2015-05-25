@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoadMoreListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 下拉刷新  end -->
+    <string name="load_more_list_footer_default_text">加载中...</string>
+    <string name="load_more_list_footer_loading_text">加载中&#8230;</string>
+    <string name="load_more_list_footer_no_more_text">无更多信息</string>
+    <!-- 下拉刷新  end -->
+</resources>
